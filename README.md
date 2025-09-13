@@ -11,4 +11,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Raunak08-code/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Raunak08-code/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## String
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Raunak08-code/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Raunak08-code/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
