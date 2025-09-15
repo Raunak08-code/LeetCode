@@ -30,6 +30,9 @@ public:
                 trav = trav->next;
             }
         }
+        // for(int i =0; i<=n/2; i++){
+        //         trav = trav->next;
+        // }
         return trav;
     }
 };
