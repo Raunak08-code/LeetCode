@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Raunak08-code/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Raunak08-code/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Raunak08-code/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/Raunak08-code/LeetCode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Raunak08-code/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Raunak08-code/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Raunak08-code/LeetCode/tree/master/0148-sort-list) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Raunak08-code/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Raunak08-code/LeetCode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Raunak08-code/LeetCode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Raunak08-code/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Raunak08-code/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Raunak08-code/LeetCode/tree/master/0148-sort-list) |
