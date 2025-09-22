@@ -8,11 +8,12 @@ public:
         return nh; 
     }
 
+    // in this method we break our linkedlist into 3 parts i) head to l-1; ii)l to r; iii) r+1 to tail;....
     ListNode* reverseBetween(ListNode* head, int left, int right) {
         if(left == right) return head;
         ListNode* a = head;
         ListNode* b = head;
-        if(left == 1){
+        if(left == 1){ // this if condition is very important becouse here we only break into two parts not three parts ....
             for(int i=1; i<right; i++){
                 b = b->next;
             }
