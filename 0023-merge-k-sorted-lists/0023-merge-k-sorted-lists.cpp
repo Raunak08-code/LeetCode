@@ -1,15 +1,6 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
+// this fun is for murging to lists/....
     ListNode* marge(ListNode* list1, ListNode* list2){
         if(list1==NULL && list2 == NULL) return NULL;
         if(list1 == NULL) return list2;
@@ -39,17 +30,18 @@ public:
         return c->next;
 
     }
+// this is the main taks we have to do 
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         if(lists.size() == 0) return NULL;
         while(lists.size() > 1){
-
+        // here we take first 2 elements from vector and then merge them , again take 2 and murge them  till the size becpome 1.......
             ListNode* a = lists[0];
-            lists.erase(lists.begin());
+            lists.erase(lists.begin()); //deleting from start in array
             ListNode* b = lists[0];
             lists.erase(lists.begin());
 
-            ListNode* x = marge(a,b);
-            lists.push_back(x);
+            ListNode* x = marge(a,b); //calling murge function
+            lists.push_back(x); // adding the murgect arrage back to the original vector ... 
         }
         return lists[0]; 
     }
