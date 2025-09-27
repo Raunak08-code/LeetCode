@@ -10,7 +10,23 @@
  */
 class Solution {
 public:
-    ListNode* removeNthFromEnd(ListNode* head, int n) {
+   ListNode* removeNthFromEnd(ListNode* head, int n) {
+// // two pointer.
+//     ListNode* slow= head;
+//     ListNode* fast = head;
+
+//     for(int i=1; i<=n+1; i++){
+//         if(fast = NULL)  return head->next;
+//         fast = fast->next;  
+//     } 
+//     while(fast != NULL){
+//         slow = slow->next;
+//         fast = fast->next;
+//     }
+//     slow->next= slow->next->next;
+//     return head; 
+
+
         ListNode* terv = head;
         int sizee=0;
         while(terv != NULL){
@@ -22,14 +38,11 @@ public:
             return head;
         }
 
-        int len = sizee-n+1;
-        int m = len-1;
-
         ListNode* temp = head;
-        for(int i =1; i<=m-1; i++){
+        for(int i =1; i<sizee-n; i++){
             temp = temp->next;
         }
         temp->next = temp->next->next;   
         return head;
-    }
+     }
 };
