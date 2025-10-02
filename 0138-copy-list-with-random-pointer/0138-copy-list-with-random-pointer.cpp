@@ -7,7 +7,6 @@ public:
         Node* td = dummy;
         while(temp){
             Node* a = new Node(temp->val);
-            //a = temp;
             td->next = a;
             td = td->next;
             temp = temp->next;
@@ -32,7 +31,6 @@ public:
 
         // asing random pointer...
         Node* t1 = dummy; // t1 will traveerse in origional list...
-        // Node* t2; 
         while(t1){
             Node* t2 = t1->next;
             if(t1->random) t2->random = t1->random->next;
@@ -50,7 +48,6 @@ public:
             ta->next = t;
             t = t->next;
             ta = ta->next;
-
             tb->next = t;
             t = t->next;
             tb = tb->next;
@@ -59,7 +56,7 @@ public:
         tb->next = NULL;
 
         d1 = d1->next; // original with random
-        d2 = d2->next; //  
+        d2 = d2->next; //  deep copy with random
 
         return d2;
     }
