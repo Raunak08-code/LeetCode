@@ -2,12 +2,6 @@ class Solution {
 public:
     Node* flatten(Node* head) {
         Node* temp = head;
-        
-        // if(temp->child != NULL && temp->next == NULL){
-        //     temp->next = temp->child;
-        //     temp->child->prev = temp;
-        //     temp->child = NULL;
-        // }
         while(temp){
             Node* a = temp->next;
             if(temp->child != NULL){  
