@@ -1,13 +1,3 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 // class Solution {
 // public:
 //     ListNode* removeElements(ListNode* head, int val) {
@@ -35,30 +25,22 @@
 //     }
 // };
 
-
-
-
 class Solution {
 public:
     ListNode* removeElements(ListNode* head, int val) {
-        // Step 1: Skip nodes from the start that have the target value
         while (head != NULL && head->val == val) {
             head = head->next;
         }
-
-        // If the list is empty after removing initial nodes
         if (head == NULL) return NULL;
 
-        // Step 2: Use a pointer to traverse and remove nodes
         ListNode* temp = head;
         while (temp != NULL && temp->next != NULL) {
             if (temp->next->val == val) {
-                temp->next = temp->next->next; // skip the node
+                temp->next = temp->next->next;
             } else {
-                temp = temp->next; // move forward
+                temp = temp->next;
             }
         }
-
         return head;
     }
 };
