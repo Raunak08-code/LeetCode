@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Raunak08-code/LeetCode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Raunak08-code/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raunak08-code/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raunak08-code/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2411-spiral-matrix-iv](https://github.com/Raunak08-code/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Binary Search
 |  |
@@ -22,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Raunak08-code/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Raunak08-code/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Raunak08-code/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raunak08-code/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Raunak08-code/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raunak08-code/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Raunak08-code/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Raunak08-code/LeetCode/tree/master/0148-sort-list) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raunak08-code/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Stack
 |  |
 | ------- |
