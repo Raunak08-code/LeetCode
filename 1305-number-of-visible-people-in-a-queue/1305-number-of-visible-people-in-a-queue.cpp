@@ -18,7 +18,6 @@ public:
             //ans
             if(st.size() != 0)  count++;
             cansee[i] = count;
-            //else cansee[i] = count++;
             //push
             st.push(heights[i]);
         }
