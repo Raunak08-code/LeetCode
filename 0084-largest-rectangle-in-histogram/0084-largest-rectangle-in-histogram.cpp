@@ -51,7 +51,7 @@ public:
         int maxarea = 0;
 
         for(int i=0; i<heights.size(); i++){
-            int area = heights[i]*(nsi[i]-psi[i]-1);
+            int area = heights[i]*(nsi[i]-psi[i]-1);//(nsi[i]-psi[i]-1) this gives the breadth of the size we needed
             maxarea = max(maxarea,area);
         }
         return maxarea;
