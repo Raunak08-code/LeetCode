@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Raunak08-code/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raunak08-code/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0496-next-greater-element-i](https://github.com/Raunak08-code/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Raunak08-code/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raunak08-code/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2411-spiral-matrix-iv](https://github.com/Raunak08-code/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Binary Search
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Raunak08-code/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Raunak08-code/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Raunak08-code/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Raunak08-code/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,4 +151,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Raunak08-code/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Raunak08-code/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Raunak08-code/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
