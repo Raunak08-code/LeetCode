@@ -1,3 +1,5 @@
+// method 1 : brout force with TC = O(n) & SC = O(n)
+
 // class MinStack {
 // public:
 //     stack<int> st;
@@ -37,37 +39,67 @@
 
 
 
-// method 2 
+// method 2 : optimal code but note best one still TC = O(1) & SC = O(n)
 
+// class MinStack {
+// public:
+//     stack<int> st;
+//     stack<int> helper;
+//     MinStack() {
+        
+//     }
+    
+//     void push(int val) {
+//         st.push(val);
+//         if(helper.size() == 0 ||val<helper.top()){
+//             helper.push(val);
+//         }
+//         else{
+//             helper.push(helper.top());
+//         }
+//     }
+    
+//     void pop() {
+//         st.pop();
+//         helper.pop();
+//     }
+    
+//     int top() {
+//         return st.top();
+//     }
+    
+//     int getMin() {
+//         return helper.top();
+//     }
+// };
+
+
+// method 3 
 class MinStack {
 public:
-    stack<int> st;
-    stack<int> helper;
+    vector<int> v;
     MinStack() {
         
     }
     
     void push(int val) {
-        st.push(val);
-        if(helper.size() == 0 ||val<helper.top()){
-            helper.push(val);
-        }
-        else{
-            helper.push(helper.top());
-        }
+        v.push_back(val);
     }
     
     void pop() {
-        st.pop();
-        helper.pop();
+        v.pop_back();
     }
     
     int top() {
-        return st.top();
+        return v[v.size()-1];
     }
     
     int getMin() {
-        return helper.top();
+        int mini = v[0];
+        for(int i=1; i<v.size(); i++ ){
+            mini = min(mini,v[i]);
+        }
+        return mini;
     }
 };
 
