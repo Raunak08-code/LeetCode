@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Raunak08-code/LeetCode/tree/master/0020-valid-parentheses) |
+| [0257-binary-tree-paths](https://github.com/Raunak08-code/LeetCode/tree/master/0257-binary-tree-paths) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Raunak08-code/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Raunak08-code/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raunak08-code/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Raunak08-code/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Raunak08-code/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Raunak08-code/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Raunak08-code/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Raunak08-code/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
@@ -200,16 +202,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Raunak08-code/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Raunak08-code/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Raunak08-code/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Raunak08-code/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Raunak08-code/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Raunak08-code/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Raunak08-code/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Raunak08-code/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Raunak08-code/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Raunak08-code/LeetCode/tree/master/0226-invert-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Raunak08-code/LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
