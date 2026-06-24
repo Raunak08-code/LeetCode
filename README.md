@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Raunak08-code/LeetCode/tree/master/0739-daily-temperatures) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Raunak08-code/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raunak08-code/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1470-shuffle-the-array](https://github.com/Raunak08-code/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Raunak08-code/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Raunak08-code/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2411-spiral-matrix-iv](https://github.com/Raunak08-code/LeetCode/tree/master/2411-spiral-matrix-iv) |
